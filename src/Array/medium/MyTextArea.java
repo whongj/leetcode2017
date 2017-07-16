@@ -25,6 +25,7 @@ import java.awt.BorderLayout;
             EventQueue.invokeLater(new Runnable() {
                 public void run() {
                     try {
+                        
                         MyTextArea window = new MyTextArea();
                         window.frame.setVisible(true);
                     } catch (Exception e) {
