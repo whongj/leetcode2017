@@ -13,5 +13,6 @@ public class RandNode {
         this.value = data;
 
     }
+
 }
 
